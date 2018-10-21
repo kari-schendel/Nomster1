@@ -58,6 +58,7 @@ gem 'will_paginate', '~> 3.1.0'
 # this is needed to add bootstrap style to pagination
 gem 'will_paginate-bootstrap4'
 gem 'simple_form'
+gem 'font-awesome-rails'
 
 source 'https://rails-assets.org' do
   gem 'rails-assets-tether', '>= 1.3.3'
